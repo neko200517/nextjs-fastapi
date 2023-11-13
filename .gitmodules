@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/neko200517/nextjs-fastapi-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/neko200517/nextjs-fastapi-backend.git
